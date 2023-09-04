@@ -5,10 +5,14 @@
 <img align="center" alt="Isa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Isa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Isa-GOGLECLOUD" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
-  
 <div> 
   
-  ##
+##
+  <a href="https://github.com/isabellazanotti/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=isabellazanotti&show_icons=true&theme=dracula" />
+  
+##
+
 <div>
 <a href="https://[instagram.com/isabellazanotti](https://www.instagram.com/isazanottii/)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
