@@ -1,4 +1,7 @@
-## Olá eu sou a Isabella Zanotti, sou uma desenvolvedora de Back-end júnior!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+<div align="center">
+ 
+## Olá eu sou a Isabella Zanotti, uma desenvolvedora de softawers !
 
  <div align="center">
 <div style="display: inline_block"><br>
@@ -20,4 +23,10 @@
 <a href = "mailto:isabellazanotti21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://linkedin.com/in/isabella-zanotti-ribeiro-a38a78261" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>          
-       
+       <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{isabellazanotti}/count.svg" /></p> 
+<br>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
