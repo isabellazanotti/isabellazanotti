@@ -3,14 +3,14 @@
 
  
  <div>
-<img src="https://user-images.githubusercontent.com/1612112/213943678-c34cb1a9-94f9-4be0-86dd-8e2227fa4b8c.gif" alt="hello" align="right" width="60 " height="60">
+<img src="https://user-images.githubusercontent.com/1612112/213943678-c34cb1a9-94f9-4be0-86dd-8e2227fa4b8c.gif" alt="hello" align="right" width="50 " height="50">
    
 <div align="center">  
   
 ## Olá eu sou a Isabella Zanotti, uma desenvolvedora de softawers !
 
   <div align="left">  
-  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api?username=isabellazanotti&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Isabella Zanotti github stats" /> 
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=isabellazanotti&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Isabella Zanotti github stats" /> 
   <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellazanotti&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
