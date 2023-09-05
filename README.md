@@ -1,27 +1,24 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
-
-  <div align="center"> 
+ 
+ <div>
+<img src="https://user-images.githubusercontent.com/1612112/213943678-c34cb1a9-94f9-4be0-86dd-8e2227fa4b8c.gif" alt="hello" align="right" width="60 " height="60">
    
+<div align="center">  
+  
 ## Olá eu sou a Isabella Zanotti, uma desenvolvedora de softawers !
 
   <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=isabellazanotti&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Isabella Zanotti github stats" /> 
-  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellazanotti&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+  <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellazanotti&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
- 
-  <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="300" alt="coding-time" src="code.gif">
   <div>
 
 
-
-  <div align="center">
- <div>
-<a href="#"><img src="https://user-images.githubusercontent.com/1612112/213943678-c34cb1a9-94f9-4be0-86dd-8e2227fa4b8c.gif" alt="hello" align="right" width="100 " height="100"></a>
   
  <div  align="left">
   
