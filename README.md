@@ -28,5 +28,7 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{isabellazanotti}/count.svg" /></p> 
 <br>
 </div>
-![Snake animation](https://github.com/isabellazanotti/isabellazanotti/blob/output/github-contribution-grid-snake.svg)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
+
+![Snake animation](https://github.com/isabellazanotti/isabellazanotti/blob/output/github-contribution-grid-snake.svg)
